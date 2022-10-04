@@ -98,7 +98,7 @@ p {
 }
 
 /* Responsiveness */
-@media screen and (max-width: 1008px) {
+@media screen and (max-width: 600px) {
     .sub-container {
         width: 343px;
     }
